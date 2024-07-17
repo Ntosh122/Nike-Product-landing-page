@@ -4,7 +4,7 @@ A Nike Product Landing Page built with react.js, and Tailwind.
 https://nike-product-landing-page.vercel.app/
 
 # 💻 Desktop View
-![screencapture-localhost-3000-2023-12-30-14_50_40](https://github.com/PiusLucky/startup-agency-landing-page/assets/32282934/3668259b-9176-4b43-bb19-7eead6b4ed64)
+![screencapture-localhost-3000-2023-12-30-14_50_40](https://github.com/Ntosh122/Nilke-Product-landing-page/preview)
 
 ## 🔓 Stack
 - React.js

@@ -74,3 +74,9 @@ npm start
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
+## 🔓 Benefits
+- Mobile Responsiveness
+- Learn all the stack in one video
+
+## Author
+Built with love ❤️ by Ntokozo https://ntokozo-portfolio.netlify.app/

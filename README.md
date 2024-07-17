@@ -1,10 +1,10 @@
 # Nike-landing-page
 A Nike Product Landing Page built with react.js, and Tailwind.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- Tailwind CSS
+## 🔓 Stack
 - React.js
+- Tailwind
+
 
 ## <a name="features">🔋 Features</a>
 
